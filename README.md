@@ -18,8 +18,9 @@ para que las soluciones vagen
  ya no se permiten subir
 
  ![imagen](rs.png)
-temperatura
-salto termico
+ 
+- temperatura
+- salto termico
 
 ## fundamentos
 - Algoritmo estocastico, procesos aleatorios para
