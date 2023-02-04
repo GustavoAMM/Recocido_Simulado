@@ -85,9 +85,9 @@ def recocido_simulado(temp_inicial, tasa_enfriamiento, solucion_actual, iteracio
         i += 1
     return solucion_mejor
 
-# #El resultado devuelto es la solución optimizada encontrada por el algoritmo.
-# resultado = recocido_simulado(temp_inicial, tasa_enfriamiento, solucion_actual, iteraciones)
-# print("Mejor solución optimizada:", resultado)
+#El resultado devuelto es la solución optimizada encontrada por el algoritmo.
+resultado = recocido_simulado(temp_inicial, tasa_enfriamiento, solucion_actual, iteraciones)
+print("Mejor solución optimizada:", resultado)
 
 #########################################
 ## Codigo que supuestamente Grafica    ##
