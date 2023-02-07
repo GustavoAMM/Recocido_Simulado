@@ -1,3 +1,7 @@
+#########################################
+## Codigo Recocido simulado versión 1  ##
+#########################################
+
 # import random
 # import math
 
@@ -34,12 +38,11 @@
 # El proceso continúa hasta que la temperatura alcance un valor determinado (en este caso, 0.1).
 
 #########################################
-## Codigo que supuestamente esta mejor ##
+##    Codigo del recocido simulado     ##
 #########################################
 
 import random
 import math
-#import matplotlib.pyplot as plt
 
 #función que quiero optimizar
 def funcion(x):
@@ -89,9 +92,9 @@ def recocido_simulado(temp_inicial, tasa_enfriamiento, solucion_actual, iteracio
 resultado = recocido_simulado(temp_inicial, tasa_enfriamiento, solucion_actual, iteraciones)
 print("Mejor solución optimizada:", resultado)
 
-#########################################
-## Codigo que supuestamente Grafica    ##
-#########################################
+###########################################
+# Codigo del recocido simulado (gráfica)  #
+###########################################
 
 # import random
 # import math
