@@ -1,4 +1,4 @@
-# Recocido_Simulado
+# Recocido Simulado
 
 ## ¿Qúe es?
 
@@ -22,7 +22,7 @@ Recocido: tratamiento térmico para agrandar materiales
 - (abajo) temperatura
 - (arriba) salto térmico
 
-## fundamentos
+## Fundamentos
 
 - Algoritmo estocástico, procesos aleatorios para
 no llegar a la misma solución
