@@ -39,7 +39,7 @@ no llegar a la misma solución
 
 ## Codigo
 
-```{python}
+```python
 
 import random
 import math
