@@ -39,7 +39,7 @@ no llegar a la misma solución
 
 ## Codigo
 
-```[python]
+```
 import random
 import math
 
@@ -90,4 +90,4 @@ def recocido_simulado(temp_inicial, tasa_enfriamiento, solucion_actual, iteracio
 #El resultado devuelto es la solución optimizada encontrada por el algoritmo.
 resultado = recocido_simulado(temp_inicial, tasa_enfriamiento, solucion_actual, iteraciones)
 print("Mejor solución optimizada:", resultado)
-```
+```python
